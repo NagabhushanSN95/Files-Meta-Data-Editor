@@ -1,0 +1,34 @@
+name: 06_Files_MetaData_Editor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2019.11.27=0
+  - certifi=2019.11.28=py37_0
+  - intel-openmp=2019.4=245
+  - libblas=3.8.0=14_mkl
+  - libcblas=3.8.0=14_mkl
+  - liblapack=3.8.0=14_mkl
+  - mkl=2019.4=245
+  - numpy=1.17.3=py37hc71023c_0
+  - openssl=1.1.1d=he774522_3
+  - pandas=0.25.3=py37he350917_0
+  - pip=19.3.1=py37_0
+  - python=3.7.6=h60c2a47_2
+  - python-dateutil=2.8.1=py_0
+  - pytz=2019.3=py_0
+  - setuptools=44.0.0=py37_0
+  - six=1.14.0=py37_0
+  - sqlite=3.30.1=he774522_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.16.27012=hf0eaf9b_1
+  - wheel=0.33.6=py37_0
+  - wincertstore=0.2=py37_0
+  - pip:
+    - deprecation==2.0.7
+    - eyed3==0.9
+    - filetype==1.0.5
+    - packaging==20.0
+    - pyparsing==2.4.6
+prefix: D:\Workspaces\Anaconda\envs\06_Files_MetaData_Editor
+
